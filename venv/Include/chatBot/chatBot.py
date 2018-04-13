@@ -5,7 +5,7 @@ greetings = ['hola', 'hello', 'hi','Hi','hey!','hey','你好','你好！']
 nameQuestions = ['你是谁？', '你叫什么名字？']
 nameResponses = ['我是Aka，你好呀！',"我的名字叫Aka~~"]
 
-ageQuestions = ['你几岁？', '你多大啦？']
+ageQuestions = ['你几岁了？', '你多大啦？']
 ageResponses = ['我11岁哦！',"我11岁啦~~"]
 
 byebye =['bye','byebye','再见']
